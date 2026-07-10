@@ -13,5 +13,7 @@ This repository contains my Python practice as I prepare for internships and imp
 - Functions
 - Pattern Printing
 - Recursion
+- File Handling
+- Exception Handling
 
 More topics and projects will be added regularly.
